@@ -11,4 +11,7 @@ for k in range(kmax):
 		break
 print "After %s iterations, s = %s" % (k+1,s)
 
+end
+
+
  
